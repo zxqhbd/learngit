@@ -1,4 +1,4 @@
-git is a control version
+git is a distributed control version
 git is a free software
 
 
